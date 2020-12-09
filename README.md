@@ -1,27 +1,33 @@
-# Authapp
+# Autenticación con Auth0 | Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 4.5**
+> -   TypeScript
+> -   ES6
+> -   Auth0
 
-## Build
+### **Caracterisiticas**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<br>
 
-## Running unit tests
+> -   Autenticación con cuenta de Google mediante Auth0.
+> -   Uso de servicios para bloquear rutas que no son válidas si el usuario no esta autenticado.
+> -   Obtener la información del perfil del usuario ingresado.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+### Autor
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<br>
 
-## Further help
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Realización de la practica: _**José Saldivar**_
