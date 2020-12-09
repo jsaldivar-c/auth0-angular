@@ -21,8 +21,8 @@ import { AuthModule } from '@auth0/auth0-angular';
         BrowserModule,
         AppRoutingModule,
         AuthModule.forRoot({
-            domain: 'dev-tz27147j.us.auth0.com',
-            clientId: 'i7OX2he9wEvYFvJCvZWqjlnF723y3w54',
+            domain: 'ddgfddywyyww',
+            clientId: 'i7O664gdgdfhshsaha',
         }),
     ],
     providers: [],
